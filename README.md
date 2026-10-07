@@ -7,6 +7,8 @@
 
 ---
 
+网易云刚把SMTC上架，还没搞好喵QAQ
+
 ## ⚠️ 免责声明（使用前必读）
 
 1. 本程序仅用于 Windows GSMTC（Global System Media Transport Controls）系统媒体会话 API 的**技术学习与演示**；
